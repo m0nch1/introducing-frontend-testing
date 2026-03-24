@@ -10,8 +10,9 @@ export default defineConfig({
       {
         text: '目次',
         items: [
-          { text: 'フロントエンドテストの目的', link: '/markdown-examples' },
-          { text: 'Testing Trophy とは何か', link: '/api-examples' },
+          { text: 'フロントエンドテストの目的', link: '/01.why-we-do-frontend-testing' },
+          { text: 'Testing Trophy とは何か', link: '/02.testing-trophy' },
+          { text: 'Testing Library を知る', link: '/03.testing-library' },
 
         ]
       }
