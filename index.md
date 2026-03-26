@@ -9,9 +9,9 @@ hero:
     alt: トロフィー
   actions:
     - theme: brand
-      text: Read
+      text: はじめる
       link: /01.why-we-do-frontend-testing
     - theme: alt
-      text: View on GitHub
+      text: GitHub で見る
       link: https://github.com/m0nch1/introducing-frontend-testing
 ---
